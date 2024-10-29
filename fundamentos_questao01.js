@@ -1,6 +1,3 @@
-## 1) Escreva um programa em Javascript que exiba propriedades de data e hora no seguinte 
-formato: ◦ Hoje é: [dia da semana].◦ A hora atual é: [hora atual no formato de HH:MM:SS]. ##
-
 function exibirDiaDaSemana() {
     const diasDaSemana = ['Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado'];
     const data = new Date();
